@@ -1,4 +1,4 @@
-# moledoku
+# Moledoku
 
 Moledoku is a form of Sudoku commonly called Calcudoku or Mathdoku.
 
